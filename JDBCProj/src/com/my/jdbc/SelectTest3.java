@@ -11,8 +11,7 @@ public class SelectTest3 {
 			//read inputs
 			sc=new Scanner(System.in);
 			if (sc!=null) {
-				System.out.println("Enter Employee no.");
-				no=sc.nextInt();
+				
 			}
 			
 		} catch (Exception e) {
